@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -ffast-math -std=c++14 -fopenmp -march=native -g CMakeFiles/Chess.dir/main.cpp.o CMakeFiles/Chess.dir/Position.cpp.o CMakeFiles/Chess.dir/Move.cpp.o -o Chess 
